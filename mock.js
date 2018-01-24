@@ -10,4 +10,4 @@ require.cache[key] = {
   loaded: true,
   exports: ReactNativeMock,
 };
-npm
+
