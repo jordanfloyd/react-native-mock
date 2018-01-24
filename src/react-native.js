@@ -1,8 +1,10 @@
 /**
  * https://github.com/facebook/react-native/blob/master/Libraries/react-native/react-native.js
  */
-const createMockComponent = require('./components/createMockComponent');
-const defineGlobalProperty = require('./defineGlobalProperty');
+import React from 'react';
+
+import createMockComponent from './components/createMockComponent';
+import defineGlobalProperty from './defineGlobalProperty';
 
 // Export React, plus some native additions.
 const ReactNative = {
