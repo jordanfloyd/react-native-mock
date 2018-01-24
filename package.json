@@ -42,7 +42,6 @@
     "eslint-plugin-react-native": "1.0.2",
     "mocha": "2.5.3",
     "react": "16.0.0-alpha.12",
-    "react-native": "0.47.2",
     "react-addons-perf": "16.0.0-alpha.3",
     "react-addons-test-utils": "16.0.0-alpha.3",
     "react-dom": "16.0.0-alpha.12"
