@@ -52,6 +52,8 @@
     "keymirror": "^0.1.1",
     "raf": "^3.2.0",
     "react-addons-create-fragment": "latest",
+    "react-addons-perf": "16.0.0-alpha.3",
+    "react-addons-test-utils": "16.0.0-alpha.3",
     "warning": "^2.1.0"
   },
   "peerDependencies": {
