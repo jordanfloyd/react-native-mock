@@ -1,8 +1,6 @@
 /**
  * https://github.com/facebook/react-native/blob/master/Libraries/react-native/react-native.js
  */
-import React from 'react';
-
 import createMockComponent from './components/createMockComponent';
 import defineGlobalProperty from './defineGlobalProperty';
 
